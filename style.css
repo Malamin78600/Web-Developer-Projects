@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+}
+#top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding-left: 10px;
+}
+div{
+    width: 50%;
+    font-size: larger;
+    margin-left: 100px;
+}
+span{
+    color: forestgreen;
+}
+#top-banner{
+    margin-left: 100px;
+}
+a{
+    padding: 8px 30px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: limegreen;
+    font-weight: 700px;
+}
+div{
+    
+}
